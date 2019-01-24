@@ -1,6 +1,6 @@
 {
   "name": "custom-error-class",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Straightforward ES6 class you can extend to make proper custom errors",
   "main": "index.js",
   "dependencies": {},
